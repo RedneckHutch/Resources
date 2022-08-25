@@ -1,5 +1,5 @@
 # SIEM-Logging-Recommendation
-test
+test;
 etst
 # Resources
 https://www.malwarearchaeology.com/cheat-sheets
