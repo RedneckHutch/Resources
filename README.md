@@ -12,3 +12,7 @@ https://www.malwarearchaeology.com/cheat-sheets
 https://github.com/SigmaHQ/sigma <br />
 https://github.com/redcanaryco/atomic-red-team <br />
 https://github.com/atc-project/atomic-threat-coverage <br />
+
+# Splunk resources
+https://github.com/sduff/awesome-splunk <br />
+https://github.com/shauntdergrigorian/splunkqueries <br />
