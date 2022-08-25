@@ -7,6 +7,7 @@ this is a new test
 ```
 # Resources
 https://www.malwarearchaeology.com/cheat-sheets
+https://github.com/hslatman/awesome-threat-intelligence
 
 # Detection Resources
 https://github.com/SigmaHQ/sigma <br />
