@@ -1,6 +1,6 @@
 # SIEM-Logging-Recommendation
-test; <br />
-etst
+This is a test to check line breaking. <br />
+If this line is below the other line the works "<br />" <br />
 # Resources
 https://www.malwarearchaeology.com/cheat-sheets
 
