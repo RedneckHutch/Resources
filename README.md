@@ -9,6 +9,7 @@ this is a new test
 https://www.malwarearchaeology.com/cheat-sheets<br />
 https://github.com/hslatman/awesome-threat-intelligence<br />
 https://github.com/olafhartong/sysmon-modular<br />
+https://github.com/ezpickinz/Ansible-Playbooks<br />
 
 # Detection Resources
 https://github.com/SigmaHQ/sigma <br />
