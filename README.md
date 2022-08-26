@@ -8,6 +8,7 @@ this is a new test
 # Resources
 https://www.malwarearchaeology.com/cheat-sheets<br />
 https://github.com/hslatman/awesome-threat-intelligence<br />
+https://github.com/olafhartong/sysmon-modular<br />
 
 # Detection Resources
 https://github.com/SigmaHQ/sigma <br />
