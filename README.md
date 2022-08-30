@@ -1,6 +1,5 @@
 # Resources
-This is a test to check line breaking. <br />
-If this line is below the other line the works <br />
+This is a work in progress. These are resource that I found to be useful or interesting. <br />
 
 ```
 this is a new test
