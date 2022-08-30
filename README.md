@@ -9,6 +9,7 @@ https://www.malwarearchaeology.com/cheat-sheets<br />
 https://github.com/hslatman/awesome-threat-intelligence<br />
 https://github.com/olafhartong/sysmon-modular<br />
 https://github.com/ezpickinz/Ansible-Playbooks<br />
+https://lzone.de/cheat-sheet.html<br />
 
 
 # Detection Resources
