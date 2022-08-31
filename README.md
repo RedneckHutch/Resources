@@ -10,7 +10,7 @@ https://github.com/hslatman/awesome-threat-intelligence<br />
 https://github.com/olafhartong/sysmon-modular<br />
 https://github.com/ezpickinz/Ansible-Playbooks<br />
 https://lzone.de/cheat-sheet.html<br />
-
+https://github.com/akiser1996/OSINT
 
 # Detection Resources
 https://github.com/SigmaHQ/sigma <br />
