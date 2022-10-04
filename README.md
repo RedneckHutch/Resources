@@ -24,3 +24,4 @@ https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack <br />
 # Splunk resources
 https://github.com/sduff/awesome-splunk <br />
 https://github.com/shauntdergrigorian/splunkqueries <br />
+https://www.rfaircloth.com/2015/11/06/get-started-with-splunk-app-stream-6-4-dns/<br />
