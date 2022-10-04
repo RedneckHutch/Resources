@@ -13,9 +13,11 @@ https://lzone.de/cheat-sheet.html<br />
 https://github.com/akiser1996/OSINT<br />
 https://frack113.github.io/sigma_redcanaryco/tests/b32b1ccf-f7c1-49bc-9ddd-7d7466a7b297.html
 
+# Redteam/test Resources
+https://github.com/redcanaryco/atomic-red-team
+
 # Detection Resources
 https://github.com/SigmaHQ/sigma <br />
-https://github.com/redcanaryco/atomic-red-team <br />
 https://github.com/atc-project/atomic-threat-coverage <br />
 https://github.com/clong/DetectionLab <br />
 https://www.mitre.org/sites/default/files/2021-11/getting-started-with-attack-october-2019.pdf <br />
