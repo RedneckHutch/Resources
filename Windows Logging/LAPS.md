@@ -18,6 +18,7 @@ When the LAPS client is installed, the Group Policy Client Side Extension (CSE) 
 
 Using PowerShell, we can check for the presence of the DLL:
 ```Get-ChildItem 'c:\program files\LAPS\CSE\Admpwd.dll'``` or ```Get-ChildItem 'C:\Program Files (x86)\LAPS\CSE\Admpwd.dll'```
+
 Using PowerShell v5, we can check the file hash & hashing algorithm on the DLL:
 ```Get-FileHash 'c:\program files\LAPS\CSE\Admpwd.dll'```
 
