@@ -24,3 +24,5 @@ Using PowerShell v5, we can check the file hash & hashing algorithm on the DLL:
 
 Using PowerShell v5, we can check the digital signature on the DLL:
 ```Get-AuthenticodeSignature 'c:\program files\LAPS\CSE\Admpwd.dll'```
+
+# Use Windows LAPS event logs
