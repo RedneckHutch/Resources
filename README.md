@@ -13,6 +13,7 @@ https://lzone.de/cheat-sheet.html<br />
 https://github.com/akiser1996/OSINT<br />
 https://frack113.github.io/sigma_redcanaryco/tests/b32b1ccf-f7c1-49bc-9ddd-7d7466a7b297.html
 https://viperone.gitbook.io/pentest-everything/everything/everything-active-directory/laps
+https://blog.nviso.eu/2022/03/09/dettct-mapping-detection-to-mitre-attck/
 
 # Redteam/test Resources
 https://github.com/redcanaryco/atomic-red-team
